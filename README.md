@@ -21,4 +21,4 @@ Install dependencies using:
 ```bash
 pip install numpy pandas matplotlib scikit-learn
 
-plt.show()
+
